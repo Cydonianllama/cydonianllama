@@ -1,5 +1,5 @@
 # Hola, soy Grandez Erick
-Desarrollador
+Desarrollador [CV](https://cydonianllama.github.io/cydo_GrandezErick_cv/)
 
 ---
 
@@ -22,13 +22,14 @@ Desarrollador
   - Validación de datos para el usuario.
 
 
-## Experticia
+## Roles y experticia
 
 - Desarrollo de flujos conversacionales
 - Integraciones de herramientas con herramientas IA
 - Desarrollo mantenible de productos usando NextJS y express
 - Desarrollo de modulos de alta concurrencia.
-
+- Recopilación de requerimientos del cliente.
+- Mantenimiento de productos Legacy.
 
 ## Mis Proyectos
 
@@ -37,8 +38,8 @@ Desarrollador
   - Landing: [https://monorepo-cydonianllama-web.vercel.app/]
   - próximanente subiré docs para desglosar la plataforma desarrollada
 
-- **[Mi tienda virtual](https://monorepo-cydonianllama-web.vercel.app/login)** - [Tienda personal]
+<!-- - **[Mi tienda virtual](https://monorepo-cydonianllama-web.vercel.app/login)** - [Tienda personal]
   - Plataforma de ventas hecho para mi uso personal
-  - Demo: [https://...]
+  - Demo: [https://...] -->
 
 ¿Colaboramos? Escríbeme a [grandezerdev@gmail.com](mailto:grandezerdev@gmail.com)
